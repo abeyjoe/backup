@@ -1,0 +1,18 @@
+PRODUCT TITLE:
+Complete Online Examination System With Timer in PHP MySQL (Source Code)
+
+PRODUCT DESCRIPTION
+In today’s digital age, educational institutions leverage technology to enhance learning experiences. The Online Examination System with Timer, built using PHP and MySQL, offers seamless exam administration. Admins manage courses, exams, and examinees, while students take exams within set time limits. With user-friendly interfaces and comprehensive features, the system empowers both administrators and students. Fully functional.
+
+See READ.me file on step-by-step on how to setup this project.
+
+PRICE: #20,000 (#56,000)
+
+
+Categories: Software and Tech
+Seb Categories: Web Design/Development
+product Type: Digital Product
+
+
+
+Images and File on desktop

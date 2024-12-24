@@ -1,0 +1,25 @@
+dan lok on sales
+
+@ewebscientistkerala7078
+3 years ago
+1. The ability to empathise with your customers 1:54
+2. The ability to uncover challenges and discover your prospect's pain points 4:27
+3. The ability to Handle objections 6:58
+THE MASTER FOUNDATIONS !
+
+
+@vincentmbogo4767
+5 years ago (edited)
+1. Give a damn
+2. Diagnose your prospect's problems
+3. Don't pre-plan. Be flexible
+
+
+<?php echo $admin->getStudentTotal(); ?>
+<?php echo $admin->getTotalPaidCount(); ?>
+
+
+
+
+ACCOUNT CREATION
+ALONGE NACOSTPI/SW/POLYIB/2024/0689 -- NACOSTPI/SW/POLYIB/2024/0001
